@@ -3,6 +3,7 @@ language: bash
 before_script:
     - sudo apt-get update
     - sudo apt-get install libc6-i386
+    - sudo apt-get apt-get install lib32stdc++6
     - sudo sysctl net.ipv4.ip_forward=1
     - sudo iptables -t nat -A PREROUTING -p udp -i eth0 --dport 80 -j DNAT --to-destination 127.0.0.1:7777
     - sudo iptables -t nat -A POSTROUTING -j MASQUERADE
