@@ -1,6 +1,6 @@
 # SAMP Freeroam Basic Gamemode
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![Build Status](https://travis-ci.org/meagusp/samp-freeroam-basic-gamemode.svg?branch=master)](https://travis-ci.org/meagusp/samp-freeroam-basic-gamemode)
 
 This gamemode is coded from scratch with adding basic freeroam features so you can play or test it.
 
