@@ -7,7 +7,9 @@ This gamemode is coded from scratch with adding basic freeroam features so you c
 ### Getting Started
 
 git clone https://github.com/meagusp/samp-freeroam-basic-gamemode.git
+
 cd samp-freeroam-basic-gamemode
+
 git log
 
 ### Debugging
@@ -30,4 +32,4 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ### License
 
-This project is licensed under the GNU General Public License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the GNU General Public License - see the [LICENSE.md](LICENSE) file for details.
