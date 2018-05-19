@@ -8,6 +8,7 @@ before_script:
     - sudo iptables -t nat -A POSTROUTING -j MASQUERADE
 
 script:
-    - sudo  nohup ./samp03svr &
+    - sudo chmod +x ./samp03svr
+    - sudo nohup ./samp03svr &
     - sudo ./samp03svr &
     - sudo ./samp03svr
