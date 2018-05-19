@@ -12,4 +12,3 @@ script:
     - sudo chmod +x ./samp03svr
     - nohup ./samp03svr &
     - ./samp03svr &
-    - ./samp03svr
